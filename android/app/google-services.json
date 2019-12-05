@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "766166576464",
+    "firebase_url": "https://ciezametal1.firebaseio.com",
+    "project_id": "ciezametal1",
+    "storage_bucket": "ciezametal1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766166576464:android:cbd9ce84ae9909eb495055",
+        "android_client_info": {
+          "package_name": "com.ciezametal.ciezametal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766166576464-0ufs2s0arppdsb929pist02vfljmme64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaAQ41paqRm3jROBNvXrG-EYUii7sGC5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766166576464-0ufs2s0arppdsb929pist02vfljmme64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
